@@ -1,0 +1,11 @@
+# server.port=8081
+server:
+  port: 9010  # 端口号
+
+# 自定义常量节
+bootInfo:
+  appName: "SpringBoot演示"
+
+spring:
+  application:
+    name: service-hello
